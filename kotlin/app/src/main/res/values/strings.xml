@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">kotlin_login_app</string>
+    <string name="logo_name">Task</string>
+    <string name="login_1">Hey,</string>
+    <string name="login_2">Let\'s Login!</string>
+    <string name="login_register">Doesn\'t have an account? Register!</string>]
+    <string name="login_fp">Forgot Password?</string>
+    <string name="icon">Icon</string>
+    <string name="login_button">Login</string>
+    <string name="login_email">Email</string>
+    <string name="login_pw">Password</string>
+    <string name="reg_halotext">Create an account</string>
+    <string name="reg_nama">Name</string>
+    <string name="reg_email">Email</string>
+    <string name="reg_pw">Password</string>
+    <string name="reg_conf">Confirmation Password</string>
+</resources>
